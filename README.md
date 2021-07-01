@@ -24,5 +24,8 @@ The industrial operation file goes through various modifications during the proj
 the robot supposed to compete against other robots, in a competition, and the winner is the one who can pop the balloon of the rival robot first. 
 
 
-Humans will control their player robot remotely by using a control panel interface. for more details please [click here](https://github.com/AlolyanRoaa/IndustrialOperationFile/blob/main/INDUSTRIAL%20OPERATION%20FILE.pdf)
+Humans will control their player robot remotely by using a control panel interface. 
+
+
+for more details please [click here](https://github.com/AlolyanRoaa/IndustrialOperationFile/blob/main/INDUSTRIAL%20OPERATION%20FILE.pdf)
 
